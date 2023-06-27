@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=LucianoVelasquez&&style=flat-square" align="center" />
 </div> 
 
-<img src="https://github.com/LucianoVelasquez/LucianoVelasquez/edit/main/Añadir%un%título.jpg" alt="Mokkapps GitHub README header image">
+<img src="https://github.com/LucianoVelasquez/LucianoVelasquez/edit/main/Añadir%un%título.jpg" alt="image">
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
