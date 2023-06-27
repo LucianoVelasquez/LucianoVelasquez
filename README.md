@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=LucianoVelasquez&&style=flat-square" align="center" />
 </div> 
 
-<img src="https://github.com/LucianoVelasquez/LucianoVelasquez/blob/main/header.png" alt="image">
+<img src="https://github.com/LucianoVelasquez/LucianoVelasquez/blob/main/hader.png" alt="image">
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
