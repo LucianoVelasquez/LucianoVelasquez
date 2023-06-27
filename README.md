@@ -5,7 +5,7 @@
 </div>  
   
 
-### <div align="center">I'm Luciano, a full-stack developer JavaScript oriented 👨‍💻 </div>  
+### <div align="center">Hi there 👋, i'm Luciano a full-stack developer JavaScript oriented 👨‍💻 </div>  
   
 
 - <div align="center">🔭 Currently working on [App Countries](https://github.com/LucianoVelasquez/pi-countries)</div>  
@@ -21,7 +21,6 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -40,7 +39,6 @@
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
 </div>
 
-</td></tr></table>  
 
 <br/>  
 
