@@ -10,7 +10,7 @@
 </div>  
   
 
-### <div align="center">Hi there 👋, i'm Luciano a full-stack developer JavaScript oriented 👨‍💻 </div>  
+### <div align="center">About me 👇 </div>  
   
 
 - <div align="center">💻 Currently working on [<a  href="https://github.com/LucianoVelasquez/pi-countries">App Countries</a>]</div>  
