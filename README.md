@@ -1,4 +1,7 @@
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=LucianoVelasquez&&style=flat-square" align="center" />
+</div> 
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
@@ -69,9 +72,7 @@
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=LucianoVelasquez&&style=flat-square" align="center" />
-</div>  
+ 
   
 
 <br/>  
