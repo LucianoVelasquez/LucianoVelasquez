@@ -8,13 +8,13 @@
 ### <div align="center">Hi there 👋, i'm Luciano a full-stack developer JavaScript oriented 👨‍💻 </div>  
   
 
-- <div align="center">🔭 Currently working on [App Countries](https://github.com/LucianoVelasquez/pi-countries)</div>  
+- <div align="center">💻 Currently working on [<a  href="[https://github.com/LucianoVelasquez/pi-countries]">App Countries</a>]</div>  
   
 
 - <div align="center">🌱 I am passionate about learning new technologies, Learning [NextJs,TypeScript,Docker,MongoDB]</div>  
   
 
-- <div align="center">❓ Looking to take advantage of the latest trends to improve my way of working and solving problems</div>  
+- <div align="center">🚀 Looking to take advantage of the latest trends to improve my way of working and solving problems</div>  
   
 
 <br/>  
