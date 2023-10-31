@@ -8,8 +8,9 @@
 <img src="https://github.com/LucianoVelasquez/LucianoVelasquez/blob/main/Header2.jpg" alt="image">
 
   
-
-### <div align="left">About me 👇 </div>  
+<br/>
+<br/>
+<br/>
   
 
 <div align="center">💻 <strong>¿Qué hago?</strong>
