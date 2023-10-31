@@ -6,6 +6,22 @@
 <br/>
 
 <img src="https://github.com/LucianoVelasquez/LucianoVelasquez/blob/main/Header2.jpg" alt="image">
+
+  
+
+### <div align="left">About me 👇 </div>  
+  
+
+<div align="center">💻 <strong>¿Qué hago?</strong>
+
+Actualmente inmerso en mi formación, mi compromiso y entusiasmo por mejorar son mi sello distintivo. Aún en proceso de graduación, estoy listo para desafíos que impulsen mi crecimiento 🚀</div>  
+  
+<div align="center"> 🧑‍💻 <strong>¿Quién soy?</strong>
+
+Inicié mi trayectoria académica adentrándome en el mundo de la informática como analista de sistemas durante dos años completos. Sin embargo, decidí tomar un breve receso para estudiar en un bootcamp intensivo de programación, donde me sumergí en un periodo de 4 meses de inmersión total y logré formarme como desarrollador web full stack.</div>  
+  
+<br/>  
+
 <div align="center">
 <a href="https://github.com/LucianoVelasquez" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -20,18 +36,6 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-  
-
-### <div align="center">About me 👇 </div>  
-  
-
-- <div align="center">🌱 I am passionate about learning new technologies</div>  
-  
-
-- <div align="center">🚀 Looking to take advantage of the latest trends to improve my way of working and solving problems</div>  
-  
-
-<br/>  
 
 
 ## Languages and Tools  
@@ -39,7 +43,6 @@
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>   
 <a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
