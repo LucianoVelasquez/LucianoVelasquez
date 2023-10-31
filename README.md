@@ -16,7 +16,7 @@
 <div align="center">💻 <strong>¿Qué hago?</strong>
 
 Actualmente inmerso en mi formación, mi compromiso y entusiasmo por mejorar son mi sello distintivo. Aún en proceso de graduación, estoy listo para desafíos que impulsen mi crecimiento 🚀</div>  
-  
+<br/>
 <div align="center"> 🧑‍💻 <strong>¿Quién soy?</strong>
 
 Inicié mi trayectoria académica adentrándome en el mundo de la informática como analista de sistemas durante dos años completos. Sin embargo, decidí tomar un breve receso para estudiar en un bootcamp intensivo de programación, donde me sumergí en un periodo de 4 meses de inmersión total y logré formarme como desarrollador web full stack.</div>  
