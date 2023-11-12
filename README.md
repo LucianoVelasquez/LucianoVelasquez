@@ -19,7 +19,7 @@ Actualmente estoy enfocado en mi formación,  mi compromiso y entusiasmo por mej
 <br/>
 <div align="center"> 🧑‍💻 <strong>¿Quién soy?</strong>
 
-Inicié mi trayectoria académica explorando el mundo de la informática como analista de sistemas durante dos años completos. Sin embargo, decidí tomar un breve receso para estudiar en un bootcamp intensivo de programación, donde me por un periodo de 4 meses logré formarme como desarrollador web full stack.</div>  
+Inicié mi trayectoria académica explorando el mundo de la informática como analista de sistemas durante dos años completos. Sin embargo, decidí tomar un breve receso para estudiar en un bootcamp intensivo de programación, donde por un periodo de 4 meses logré formarme como desarrollador web full stack.</div>  
   
 <br/>  
 
