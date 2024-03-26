@@ -5,23 +5,34 @@
 
 <br/>
 
-<img src="https://github.com/LucianoVelasquez/LucianoVelasquez/blob/main/Header2.jpg" alt="image">
+<img src="https://media.licdn.com/dms/image/D4E16AQEmgYZUIHqwsQ/profile-displaybackgroundimage-shrink_350_1400/0/1709227649508?e=1717027200&v=beta&t=9L76v0FDbhqJdoEnFwdKv1BYTN-G5s5AXdScJMz9FNE" alt="image">
 
   
 <br/>
-<br/>
-<br/>
+
+<div align="center"><strong>¿Quién soy? 🙋</strong>
   
+Soy un fiel representante de la generación Z, una generación que se caracteriza por el uso de la 
+tecnología desde una edad temprana. Desde muy chico, crecí en un entorno rodeado de tecnología, lo 
+que me llevó a estudiar la carrera de Analista en Sistemas durante dos años.
+</div>  
 
-<div align="center">💻 <strong>¿Qué hago?</strong>
-
-Actualmente estoy enfocado en mi formación,  mi compromiso y entusiasmo por mejorar son mi sello distintivo. Aún en proceso de graduación, estoy listo para desafíos que impulsen mi crecimiento 🚀</div>  
 <br/>
-<div align="center"> 🧑‍💻 <strong>¿Quién soy?</strong>
-
-Inicié mi trayectoria académica explorando el mundo de la informática como analista de sistemas durante dos años completos. Sin embargo, decidí tomar un breve receso para estudiar en un bootcamp intensivo de programación, donde por un periodo de 4 meses logré formarme como desarrollador web full stack.</div>  
+<div align="center"> <strong>¿Qué hago? 🧑‍💻</strong>
+  
+Decidí pausar mi carrera debido a mi creciente interés en la programación. Esta curiosidad me llevó a 
+un bootcamp en el instituto Soy Henry, donde he participado en varios proyectos académicos que me 
+han permitido aplicar mis conocimientos y habilidades en programación y diseño.</div>  
   
 <br/>  
+<div align="center"> <strong>¿Cuáles son mis habilidades? 🚀</strong>
+  
+Además de la programación y el diseño, tengo experiencia en otros trabajos y en deportes de contacto, lo que me ha enseñado el valor del compañerismo y el trabajo en equipo. Me considero una persona curiosa con ganas de seguir aprendiendo y creciendo profesionalmente.</div> 
+
+<br/>
+<div align="center"> <strong>¿Qué busco? 🎯</strong>
+  
+Mi objetivo actual es formar parte de una empresa en el sector tecnológico que me ofrezca la oportunidad de desarrollar mis capacidades y crecer profesionalmente, además de contribuir a sus objetivos con mi pensamiento lógico y mis habilidades técnicas. Creo que, gracias a esta combinación de habilidades, tengo mucho que aportar y puedo ser un gran valor para su equipo.</div>  
 
 <div align="center">
 <a href="https://www.linkedin.com/in/lv-dev/" target="_blank">
