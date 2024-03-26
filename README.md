@@ -5,7 +5,7 @@
 
 <br/>
 
-<img src="https://media.licdn.com/dms/image/D4E16AQEmgYZUIHqwsQ/profile-displaybackgroundimage-shrink_350_1400/0/1709227649508?e=1717027200&v=beta&t=9L76v0FDbhqJdoEnFwdKv1BYTN-G5s5AXdScJMz9FNE" alt="image">
+<img src="https://github.com/LucianoVelasquez/LucianoVelasquez/blob/main/Copia%20de%20White%20Minimalist%20Profile%20LinkedIn%20Banner.jpg?raw=true" alt="image">
 
   
 <br/>
