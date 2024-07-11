@@ -5,7 +5,7 @@
 
 <br/>
 
-<img src="https://github.com/LucianoVelasquez/LucianoVelasquez/blob/main/Copia%20de%20White%20Minimalist%20Profile%20LinkedIn%20Banner.jpg?raw=true" alt="image">
+<img src="https://raw.githubusercontent.com/LucianoVelasquez/LucianoVelasquez/main/Github.png" alt="image">
 
   
 <br/>
