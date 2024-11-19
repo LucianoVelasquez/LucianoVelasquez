@@ -5,7 +5,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/LucianoVelasquez/LucianoVelasquez/refs/heads/main/Github%20-%20Azul%20(1).png" alt="image">
+<img src="https://raw.githubusercontent.com/LucianoVelasquez/LucianoVelasquez/refs/heads/main/Github%20-%20Azul%20(2).png" alt="image">
 
   
 <br/>
