@@ -10,29 +10,9 @@
   
 <br/>
 
-<div align="center"><strong>¿Quién soy? 🙋</strong>
-  
-Soy un fiel representante de la generación Z, una generación que se caracteriza por el uso de la 
-tecnología desde una edad temprana. Desde muy chico, crecí en un entorno rodeado de tecnología, lo 
-que me llevó a estudiar la carrera de Analista en Sistemas durante dos años.
-</div>  
+Soy un entusiasta de la tecnología, con una formación inicial en la carrera de Analista en Sistemas y especializado en programación a través de un bootcamp en Soy Henry. He participado en proyectos académicos que me permitieron aplicar conocimientos en programación y diseño, desarrollando además habilidades para el trabajo en equipo.
 
-<br/>
-<div align="center"> <strong>¿Qué hago? 🧑‍💻</strong>
-  
-Decidí pausar mi carrera debido a mi creciente interés en la programación. Esta curiosidad me llevó a 
-un bootcamp en el instituto Soy Henry, donde he participado en varios proyectos académicos que me 
-han permitido aplicar mis conocimientos y habilidades en programación y diseño.</div>  
-  
-<br/>  
-<div align="center"> <strong>¿Cuáles son mis habilidades? 🚀</strong>
-  
-Además de la programación y el diseño, tengo experiencia en otros trabajos y en deportes de contacto, lo que me ha enseñado el valor del compañerismo y el trabajo en equipo. Me considero una persona curiosa con ganas de seguir aprendiendo y creciendo profesionalmente.</div> 
-
-<br/>
-<div align="center"> <strong>¿Qué busco? 🎯</strong>
-  
-Mi objetivo actual es formar parte de una empresa en el sector tecnológico que me ofrezca la oportunidad de desarrollar mis capacidades y crecer profesionalmente, además de contribuir a sus objetivos con mi pensamiento lógico y mis habilidades técnicas. Creo que, gracias a esta combinación de habilidades, tengo mucho que aportar y puedo ser un gran valor para su equipo.</div>  
+Mi objetivo es unirme a una empresa del sector tecnológico donde pueda contribuir con mis habilidades técnicas y pensamiento lógico, mientras continúo creciendo profesionalmente.
 
 <div align="center">
 <a href="https://www.linkedin.com/in/lv-dev/" target="_blank">
