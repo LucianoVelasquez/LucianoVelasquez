@@ -14,6 +14,9 @@ Soy un entusiasta de la tecnología, con una formación inicial en la carrera de
 
 Mi objetivo es unirme a una empresa del sector tecnológico donde pueda contribuir con mis habilidades técnicas y pensamiento lógico, mientras continúo creciendo profesionalmente.
 
+<br/>
+<br/>
+
 <div align="center">
 <a href="https://www.linkedin.com/in/lv-dev/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
